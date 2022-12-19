@@ -1,0 +1,7 @@
+name: machine-learning-env
+
+dependencies:
+  -numpy==1.21.5
+  -scipy==1.9.1
+  -pandas==1.4.4
+  -pip==22.3.1
